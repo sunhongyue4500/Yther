@@ -1,0 +1,6 @@
+framework module Pods_Yther {
+  umbrella header "Pods-Yther-umbrella.h"
+
+  export *
+  module * { export * }
+}
